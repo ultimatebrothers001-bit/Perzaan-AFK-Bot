@@ -41,8 +41,8 @@
     "max-reconnect-delay": 20000,
     "periodic-rejoin": {
       "enabled": true,
-      "min-interval": 3600,
-      "max-interval": 5400
+      "min-interval": 300,
+      "max-interval": 600
     }
   },
   "movement": {
