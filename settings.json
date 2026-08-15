@@ -36,13 +36,13 @@
       ]
     },
     "chat-log": true,
-    "auto-reconnect": false,
+    "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 20000,
     "periodic-rejoin": {
       "enabled": true,
-      "min-interval": 20,
-      "max-interval": 60
+      "min-interval": 120,
+      "max-interval": 180
     }
   },
   "movement": {
