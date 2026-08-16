@@ -26,13 +26,11 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
-      "repeat": false,
-      "repeat-delay": 500,
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 15000,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "I'm a regular player,bot"
       ]
     },
     "chat-log": true,
