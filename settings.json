@@ -30,7 +30,7 @@
       "repeat": true,
       "repeat-delay": 15000,
       "messages": [
-        "I'm a regular player,bot"
+        "I'm a regular bot"
       ]
     },
     "chat-log": true,
@@ -38,7 +38,7 @@
     "auto-reconnect-delay": 15000,
     "max-reconnect-delay": 30000,
     "periodic-rejoin": {
-      "enabled": true,
+      "enabled": false,
       "min-interval": 300,
       "max-interval": 600
     }
@@ -64,7 +64,7 @@
     "combat": true,
     "beds": true,
     "chat": true,
-    "console-commands": true
+    "console-commands": false
   },
   "combat": {
     "attack-mobs": true,
