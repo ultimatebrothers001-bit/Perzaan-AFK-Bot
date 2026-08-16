@@ -8,7 +8,7 @@
   "server": {
     "ip": "survivalbros9.aternos.me",
     "port": 48435,
-    "version": "1.21.4"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": false,
