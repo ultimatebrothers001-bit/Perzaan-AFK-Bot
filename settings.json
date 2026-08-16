@@ -60,15 +60,15 @@
     }
   },
   "modules": {
-    "avoidMobs": true,
+    "avoidMobs": false,
     "combat": false,
     "beds": false,
     "chat": true,
     "console-commands": false
   },
   "combat": {
-    "attack-mobs": true,
-    "auto-eat": true
+    "attack-mobs": false,
+    "auto-eat": false
   },
   "beds": {
     "pick-up-day": true,
