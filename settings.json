@@ -23,7 +23,7 @@
     },
     "anti-afk": {
       "enabled": false,
-      "sneak": true
+      "sneak": false
     },
     "chat-messages": {
       "enabled": false,
